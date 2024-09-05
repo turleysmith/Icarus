@@ -1,0 +1,20 @@
+Pt.1 
+
+Output Function
+
+encode(X): 
+
+bin2hex(strrev(base64_encode(X)))
+
+Output: 
+
+3d 45 55 65 53 6c 58 51 35 63 6a 54 76 55 47 62 70 5a 32 4c 36 35 6d 4c 68 64 57 5a 74 39 79 4c 36 4d 48 63 30 52 48 61
+
+
+
+Pt.2 
+
+rot13|nonum: v_JeyAJIOzQonOq5Yup8re7-wP3eE1o_sSM6Je-49RZ
+ 
+
+Nasib Baik
